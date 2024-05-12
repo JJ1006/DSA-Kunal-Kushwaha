@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11-methods/11-methods.iml" filepath="$PROJECT_DIR$/11-methods/11-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Linear_Sort/12_Linear_Sort.iml" filepath="$PROJECT_DIR$/12_Linear_Sort/12_Linear_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Binary Search/13_Binary Search.iml" filepath="$PROJECT_DIR$/13_Binary Search/13_Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-ConditionalsAndLoops/9-ConditionalsAndLoops.iml" filepath="$PROJECT_DIR$/9-ConditionalsAndLoops/9-ConditionalsAndLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-Kunal-Kushwaha.iml" filepath="$PROJECT_DIR$/.idea/DSA-Kunal-Kushwaha.iml" />
+    </modules>
+  </component>
+</project>
